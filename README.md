@@ -29,3 +29,10 @@ The original research paper was authored by:
 - Tiffany (Tianhui) Cai, Department of Statistics, Columbia University
 - Hongseok Namkoong, Department of Decision, Risk, and Operations Division, Columbia University
 - Steve Yadlowsky, Brain Team, Google Research
+
+## Related work
+In time series (regression) tasks, there are similar studies on the topic mentioned above. If you're interested, please check them out.
+- [x] [RevIN](https://openreview.net/forum?id=cGDAkQo1C0p), ICLR 2022
+- [x] [Dish-TS](https://arxiv.org/abs/2302.14829), AAAI 2023
+- [x] [Stable learning](https://arxiv.org/abs/1911.12580), AAAI 2020
+- [x] [TGN](https://openreview.net/pdf?id=sWOsRj4nT1n), ICLR 2023 
