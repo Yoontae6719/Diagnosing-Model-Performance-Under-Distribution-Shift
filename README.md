@@ -10,6 +10,7 @@ In this reproduction, we aim to recreate the experiments and results reported in
 The repository contains code for reproducing the experiments in the paper. All reproducible experiments are available in the form of Jupyter notebooks. Specifically, it includes:
 - [x] 4.1.1 Y | X shift: missing/unobserved covariates
 - [x] 4.1.2 X shift: selection bias in age
+- [x] Algorithm 1 (See main.py)
 
 
 
