@@ -5,7 +5,7 @@ This repository contains a reproduction of the research [Diagnosing Model Perfor
 
 
 ## Overviwe
-In this reproduction, we aim to recreate the experiments and results reported in the original research paper. We follow the methodology described in the paper as closely as possible, using the similar dataset, parameters, and evaluation metrics. *The data used in the following code is different from the data used in the paper, so the results may not be completely identical. As the official code has not been released yet, please report any incorrect parts in the code by leaving an issue.*
+In this reproduction, we aim to recreate the experiments and results reported in the original research paper. We follow the methodology described in the paper as closely as possible, using the similar dataset, parameters, and evaluation metrics. *The data used in the following code is different from the data used in the paper, so the results may not be completely identical. As the official code has not been released yet, please report any incorrect parts*
 
 The repository contains code for reproducing the experiments in the paper. All reproducible experiments are available in the form of Jupyter notebooks. Specifically, it includes:
 - [x] 4.1.1 Y | X shift: missing/unobserved covariates
